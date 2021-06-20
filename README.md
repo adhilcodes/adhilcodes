@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abduladhilpk" target="blank"><img src="https://img.shields.io/twitter/follow/abduladhilpk?logo=twitter&style=for-the-badge" alt="abduladhilpk" /></a> </p>
 
-- 🔭 I’m currently learning [ROS](https://www.ros.org/)
+- 🔭 I’m currently learning Flutter
 
 - 👯 I’m looking to collaborate on **on applied AI projects**
 
