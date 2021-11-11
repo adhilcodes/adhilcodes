@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/abduladhilpk" target="blank"><img src="https://img.shields.io/twitter/follow/abduladhilpk?logo=twitter&style=for-the-badge" alt="abduladhilpk" /></a> </p>
 
-- 🔭 I’m currently learning Flutter
+- 🔭 I’m currently learning ROS
 
-- 👯 I’m looking to collaborate on **on applied AI projects**
+- 👯 Read my blog posts on [Medium](https://medium.com/@abduladhilpk)
 
-- 💬 Ask me about **Machine Learning,Deeplearning, Python or anything else**
+- 💬 Ask me about **Python, Machine Learning, Deeplearning or anything else**
 
-- 📫 How to reach me **[mail](abduladhilpk@gmail.com)**
+- 📫 Reach me at **[abduladhilpk@gmail.com](mailto:abduladhilpk@gmail.com)**
 
 
 
@@ -20,4 +20,3 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhilcodes&show_icons=true&locale=en" alt="adhilcodes" /></p>
