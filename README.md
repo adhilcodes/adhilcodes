@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋, I'm Adhil</h1>
-<h3 align="center">I'm a B.Tech undergrad at GEC, Thrissur</h3>
+<h1 align="left">Abdul Adhil</h1>
+
+I'm [Adhil](https://adhil.metainc.in) - a final year B.Tech Student in Production Engineering at GEC, Thrissur
 
 
-- 👯 Read my blog posts on [Medium](https://medium.com/@abduladhilpk)
+**My areas of interest are:**
 
-- 📫 Reach me at **[abduladhilpk@gmail.com](mailto:abduladhilpk@gmail.com)**
+ - Computer Vision
+ - Autonomous Vehicle
 
+
+**Get in touch:** 
+
+ - Email: [abduladhilpk@gmail.com](mailto:abduladhilpk@gmail.com)
+ - LinkedIn: https://www.linkedin.com/in/abduladhilpk/
+ - Twitter: https://twitter.com/ABDULADHILPK
+ - Blog: https://medium.com/@abduladhilpk
 
 
 
